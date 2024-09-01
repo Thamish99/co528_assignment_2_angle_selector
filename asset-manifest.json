@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/co528_assignment_2_angle_selector/static/css/main.f855e6bc.css",
-    "main.js": "/co528_assignment_2_angle_selector/static/js/main.19f7d5fb.js",
+    "main.js": "/co528_assignment_2_angle_selector/static/js/main.a5d0d41a.js",
     "static/js/453.1f8f9fce.chunk.js": "/co528_assignment_2_angle_selector/static/js/453.1f8f9fce.chunk.js",
     "index.html": "/co528_assignment_2_angle_selector/index.html",
     "main.f855e6bc.css.map": "/co528_assignment_2_angle_selector/static/css/main.f855e6bc.css.map",
-    "main.19f7d5fb.js.map": "/co528_assignment_2_angle_selector/static/js/main.19f7d5fb.js.map",
+    "main.a5d0d41a.js.map": "/co528_assignment_2_angle_selector/static/js/main.a5d0d41a.js.map",
     "453.1f8f9fce.chunk.js.map": "/co528_assignment_2_angle_selector/static/js/453.1f8f9fce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.19f7d5fb.js"
+    "static/js/main.a5d0d41a.js"
   ]
 }
